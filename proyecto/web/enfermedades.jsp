@@ -1,8 +1,4 @@
-<%-- 
-    Document   : enfermedades
-    Created on : 21/05/2025, 8:39:06 a. m.
-    Author     : DIEGO
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
