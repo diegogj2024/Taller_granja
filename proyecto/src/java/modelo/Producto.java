@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-package modelo;
-
-public class Producto {
-    
-    public Producto(){
-        
-    }
-}
-=======
 package modelo;
 
 
@@ -56,4 +46,3 @@ public class Producto {
 
 
 }
->>>>>>> 4c6efb30a57ced3a3e90911964d309776d365f5f
