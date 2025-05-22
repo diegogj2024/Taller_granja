@@ -9,8 +9,8 @@ public class conexion {
     Connection conex;
     public conexion() {
     usuario="root";
-    url="jdbc:mysql://localhost:3306/tienda_carros";
-    clave="";
+    url="jdbc:mysql://localhost:3306/granja";
+    clave="1";
     conex=null;
     }
     
