@@ -1,7 +1,8 @@
+
 package modelo;
 
 
-public class Enfermedades {
+public class Enfermedades{
     private String codigo_enfermedad;
     private String corral;
     private String Fecha_registro;
@@ -69,7 +70,5 @@ public class Enfermedades {
     public void setObservaciones(String observaciones) {
         this.observaciones = observaciones;
     }
-    
-    
-    
-}
+      
+};

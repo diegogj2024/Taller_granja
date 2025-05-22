@@ -1,5 +1,6 @@
 package modelo;
 
+
 public class Producto {
     private String codigo_cultivo;
     private String tipo_cultivo;
@@ -42,5 +43,6 @@ public class Producto {
         this.frecuencia_produccion = frecuencia_produccion;
     }
     
+
 
 }

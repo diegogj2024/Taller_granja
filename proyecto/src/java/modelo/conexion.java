@@ -10,7 +10,7 @@ public class conexion {
     public conexion() {
     usuario="root";
     url="jdbc:mysql://localhost:3306/granja";
-    clave="1";
+    clave="";
     conex=null;
     }
     
