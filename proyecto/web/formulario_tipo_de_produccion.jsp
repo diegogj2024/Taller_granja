@@ -3,6 +3,19 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Registro de tipo de produccion</title>
+        <style>
+            title{
+                font-family: Aria,serif;
+                color: purple;
+            }
+            
+            h1{
+                font-family: Arial, sans-serif; 
+                color: blue;
+                margin: 0;
+                padding: 20px;
+            }
+        </style>
     </head>
     <body>
         <h1>Registrar el tipo de produccion</h1>
@@ -15,7 +28,13 @@
                 <input type="text" name="metodoproduccion" id="metodoproduccion"><br><br>
                 
             <label for="frecuenciaprodu" method="post">
-                <input type="text" name="frecuenciaprodu" id="frecuenciaprodu"><br><br>
+                <select id="frecuenciaprodu" name="frecuenciaprodu">
+                    <option value="Anual">Anual</option>
+                    <option value="Semetral">Semestral></option>
+                    <option value="Continua">Continua</option>
+                </select>
+                
+                <input type="submit" value="Registrar">
         </form>
     </body>
 </html>
