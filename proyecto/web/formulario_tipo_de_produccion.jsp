@@ -13,17 +13,17 @@
             <label for="tipocultivo">Tipo de cultivo o producto:</label><br>
                 <input type="text" name="tipocultivo" id="tipocultivo" required><br><br>
             
-            <label for="metodoproduccion" method="post"></label>
+                <label for="metodoproduccion" method="post">Metodo de produccion:</label><br>
                 <input type="text" name="metodoproduccion" id="metodoproduccion"><br><br>
-                
-            <label for="frecuenciaprodu" method="post"></label>
+            
+                <label for="frecuenciaprodu" method="post">Frecuencia:</label><br>
                 <select id="frecuenciaprodu" name="frecuenciaprodu">
                     <option value="Anual">Anual</option>
                     <option value="Semestral">Semestral</option>
                     <option value="Continua">Continua</option>
-                </select>
+                </select><br>
                 
-                <input type="submit" value="Registrar">
+                <br><input type="submit" value="Registrar">
         </form>
     </body>
 </html>

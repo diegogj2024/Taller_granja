@@ -3,9 +3,14 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Enfermedades</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>Registro de enfermedades</h1>
+        
+        <form action="siu" method="POST">
+            <label>efe</label>
+            <input
+        </form>
     </body>
 </html>
