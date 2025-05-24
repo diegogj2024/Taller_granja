@@ -7,6 +7,7 @@ public class conexion {
     String url;
     String clave;
     Connection conex;
+    
     public conexion() {
     usuario="root";
     url="jdbc:mysql://localhost:3306/granja";
