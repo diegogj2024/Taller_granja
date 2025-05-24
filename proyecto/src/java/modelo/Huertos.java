@@ -1,7 +1,5 @@
 package modelo;
 
-
-
 public class Huertos {
     private int id_corral;
     private String produccion;

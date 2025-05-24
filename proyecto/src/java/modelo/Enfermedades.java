@@ -1,6 +1,4 @@
-
 package modelo;
-
 
 public class Enfermedades{
     private String codigo_enfermedad;

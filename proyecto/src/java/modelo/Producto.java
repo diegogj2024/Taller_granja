@@ -1,6 +1,5 @@
 package modelo;
 
-
 public class Producto {
     private String codigo_cultivo;
     private String tipo_cultivo;
