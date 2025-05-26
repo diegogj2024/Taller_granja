@@ -14,7 +14,7 @@
             <input type="number" required><br><br>
             
             <label for="tipocultivo">Tipo de cultivo o producto:</label><br>
-            <input type="text" name="tipocultivo" id="tipocultivo" required><br><br>
+            <input type="text" name="tipo_cultivo" id="tipo_cultivo" required><br><br>
             
             <label for="metodoproduccion" method="post">Metodo de produccion:</label><br>
             <input type="text" name="metodoproduccion" id="metodoproduccion"><br><br>
