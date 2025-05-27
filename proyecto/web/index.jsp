@@ -5,7 +5,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>La vida es muy bonita, disfrutala</h1>
         <a href="formulario_tipo_de_produccion.jsp">
             <button>Form Produccion xd</button>
         </a><br>

@@ -9,17 +9,17 @@
     <body>
         <h1>Registrar el tipo de produccion</h1>
         
-        <form action="registipo" method="POST">
-            <label for="id">ID/Codigo:</label>
-            <input type="number" required><br><br>
+        <form action="servlet" method="POST">
+            <label for="codigo_cultivo">Ingrese codigo de cultivo:</label><br>
+            <input type="number" name="codigo_cultivo" min="1" required><br><br>
             
-            <label for="tipocultivo">Tipo de cultivo o producto:</label><br>
+            <label for="tipo_cultivo">Ingrese el tipo de cultivo o producto:</label><br>
             <input type="text" name="tipo_cultivo" id="tipo_cultivo" required><br><br>
             
-            <label for="metodoproduccion" method="post">Metodo de produccion:</label><br>
+            <label for="metodoproduccion" method="post">Ingrese el metodo de produccion:</label><br>
             <input type="text" name="metodoproduccion" id="metodoproduccion"><br><br>
             
-            <label for="frecuenciaprodu" method="post">Frecuencia de produccion:</label><br>
+            <label for="frecuenciaprodu" method="post">Seleccione la frecuencia de produccion:</label><br>
             <select id="frecuenciaprodu" name="frecuenciaprodu">
                 <option value="Anual">Anual</option>
                 <option value="Semestral">Semestral</option>
