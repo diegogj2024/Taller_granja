@@ -7,7 +7,6 @@
     </head>
     <body>
         <h1>Registro de enfermedades</h1>
-        
         <form action="servlet" method="POST">
             <label>efe</label><br>
             <input><br><br>

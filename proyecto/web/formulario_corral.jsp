@@ -7,7 +7,6 @@
     </head>
     <body>
         <h1>Registro de huertos y corrales</h1>
-        
         <form action="servlet" method="POST">
             <label for="id_corral">Ingrese el id del corral:</label><br>
             <input type="number" name="id_corral" id="id_corral" required><br><br>

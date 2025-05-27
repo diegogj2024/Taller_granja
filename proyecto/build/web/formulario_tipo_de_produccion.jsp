@@ -8,7 +8,6 @@
     </head>
     <body>
         <h1>Registrar el tipo de produccion</h1>
-        
         <form action="servlet" method="POST">
             <label for="codigo_cultivo">Ingrese codigo de cultivo:</label><br>
             <input type="number" name="codigo_cultivo" min="1" required><br><br>
