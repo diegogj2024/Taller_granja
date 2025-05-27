@@ -8,9 +8,10 @@
     <body>
         <h1>Registro de enfermedades</h1>
         
-        <form action="siu" method="POST">
-            <label>efe</label>
-            <input
+        <form action="servlet" method="POST">
+            <label>efe</label><br>
+            <input><br><br>
+            <input type="submit" value="Registrar">
         </form>
     </body>
 </html>
