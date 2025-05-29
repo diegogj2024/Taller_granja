@@ -14,5 +14,10 @@ h1{
     margin: 0;
     padding: 20px;
 }
+
+select{
+    background: transparent;
+    color: #666;
+}
     
     
