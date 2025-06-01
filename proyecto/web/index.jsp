@@ -7,7 +7,7 @@
     <body>
         <h1>La vida es muy bonita, disfrutala</h1>
         <a href="formulario_tipo_de_produccion.jsp">
-            <button>Form Produccion xd</button>
+            <button>Form Produccion</button>
         </a><br>
         
         <a href="formulario_corral.jsp">

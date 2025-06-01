@@ -13,11 +13,23 @@ h1{
     color: blue;
     margin: 0;
     padding: 20px;
+    text-align: center;
 }
 
 select{
     background: transparent;
     color: #666;
+}
+
+div{
+    position: absolute;
+    left: 40%;
+    top: 20%;
+    
+    
+    
+    
+    
 }
     
     
