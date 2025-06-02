@@ -8,7 +8,6 @@
     </head>
     <body>
         <h1>Registrar el tipo de produccion</h1>
-        <div class="a">
         <form action="Servlet" method="POST">
             <div class="contenedor">
             <label for="codigo_cultivo">Ingrese codigo de cultivo:</label><br>
@@ -32,6 +31,5 @@
                 <br><input type="submit" value="Registrar">
             </div>
         </form>
-        </div>
     </body>
 </html>
